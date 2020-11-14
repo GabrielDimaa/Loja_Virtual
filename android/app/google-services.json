@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699273911260",
+    "firebase_url": "https://lojacursoflutter-a3021.firebaseio.com",
+    "project_id": "lojacursoflutter-a3021",
+    "storage_bucket": "lojacursoflutter-a3021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699273911260:android:e0de02990e04d3eea5cd19",
+        "android_client_info": {
+          "package_name": "br.com.curso.loja_virtual.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699273911260-55hi2uj7jo849ult76t1o2urtc6or9te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5uHeeKPHWopIPVOs3P9NbAWhlpy3yuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699273911260-55hi2uj7jo849ult76t1o2urtc6or9te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
